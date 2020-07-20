@@ -1,6 +1,12 @@
 # calendar
 
-![Alt text](calendar-example.gif?raw=true "Title")
+A code example of input calendar with React.
+
+This implementation supports minimum and maximum date so it can easily support date range for 2 input calendar. It leaves for other component to decide their own behaviour.
+
+![Calendar](calendar-example.gif?raw=true "Calendar")
+
+
 
 ## Props
 
