@@ -11,4 +11,4 @@
 | minDate         | instanceOf Date |               | specify minimum selectable date with vaild Date object                                                                                                    |
 | onChange        | func            |               | triggers when a date is selected. (event, { newValue, formatNewValue }) => {}                                                                             |
 | value           | instanceOf Date |               | specify selected date with vaild Date object                                                                                                              |
-| style           | object          |               | func                                                                                                                                                      | {} | overrides styling for root element |
+| style           | object or func  | {}            | overrides styling for root element                                                                                                                        |
