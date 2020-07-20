@@ -1,2 +1,2 @@
 # calendar
-![Alt text](calendar-example.jpg?raw=true "Title")
+![Alt text](calendar-example.gif?raw=true "Title")
